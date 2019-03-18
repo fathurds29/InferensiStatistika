@@ -218,7 +218,7 @@ sigma.test(x, sigma=sqrt(var(x)),conf.level = 0.95)
 
 
 
-## Penaksiran Selang Kepercayaan Variansi Satu Populasi
+## Penaksiran Selang Kepercayaan Variansi Dua Populasi
 
 x <- c(10,13,15,16,12,11)
 y <- c(12,14,15,16,17,8)
